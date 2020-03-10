@@ -14,9 +14,14 @@ h1 {
     color: #ffffff;
 }
 
-.buffer {
-    height: 10rem;
+p {
+    color: #ffffff;
 }
+
+footer {
+    color: #ffffff;
+}
+
 
 .btn {
     font-weight: 700;
